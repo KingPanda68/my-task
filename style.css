@@ -51,24 +51,48 @@ header {
 #top {
   padding-top: 100px;
   margin: 0 5%;
+  width: 100%;
 }
 .first-text {
   font-weight: 800;
-  font-size: 72px;
-  line-height: 108px;
+  font-size: 60px;
+  line-height: 60px;
   width: 506px;
 }
 .second-text {
-  width: 690px;
-  height: 192px;
+  width: 100%;
+  height: auto;
   font-weight: 500;
   font-size: 30px;
   line-height: 48px;
 }
+.get-started {
+  width: 287px;
+  height: 72px;
+  font-weight: 700;
+  border: none;
+  font-size: 32px;
+  line-height: 48px;
+  text-align: center;
+  color: white;
+  background: #3456ff;
+  border-radius: 8px;
+}
+.view-lib {
+  width: 290px;
+  height: 72px;
+  color: #5672ff;
+  background-color: white;
+  border: none;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  text-align: center;
+}
 #first-img {
   border-radius: 100px 10px 10px 10px;
-  width: 755px;
-  height: 710px;
+  width: 550px;
+  height: 417px;
 }
 .start {
   font-style: normal;
