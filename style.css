@@ -181,17 +181,16 @@ form {
   margin: 0 5%;
 }
 .group-image {
-  width: 744px;
-  height: 620px;
+  width: 550x;
+  height: 550px;
   border-radius: 8px;
 }
 .purpose {
-  font-weight: 400;
-  font-size: 28px;
-  width: 642px;
+  font-weight: 800;
+  font-size: 20px;
+  width: 550px;
   height: 420px;
-  line-height: 42px;
-  margin-bottom: 4vw !important;
+  margin-bottom: 2vw;
 }
 #started {
   justify-content: center;
